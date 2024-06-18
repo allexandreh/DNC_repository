@@ -1,7 +1,21 @@
 # Readme
-Este repositório é para compartilhar meus códigos desenvolvidos no meu curso de dados da escola DNC.
+Este repositório é para compartilhar meus códigos desenvolvidos no meu curso de dados da escola DNC. Minha exposições estão dividas:
+- Dentro das pastas:
+    * códigos de aprendizado, onde são expostos notebooks de inspiração;
+    * resolução de exercícios
+- Fora das pastas:
+    * Desafios, são situações mais elaboradas, que exigem mais técnica para solução
 
-# Desafio 4
+O intuíto e ter dentro das pastas o que eu chamo de "desenvolvimento das ferramentas", que são os códigos que vão abordados durante o curso, e fora das pastas esepecíficas, estão os desafios, onde ficará exposta a abstração das ferramentas, trazendo seu uso pra situações onde é necessário entender como utlizar os conceitos que foram aprendidos de forma isolada, para uma situação onde é preciso sentizar tudo que foi visto.
+
+# Pastas
+## exe_regressao_linear_simples
+    Desenvolvimento de regressão linear simples com modelo MRLS.
+
+## exe_regressao_linear_multipla
+    Desenvolvimento de regressão linear múltipla com modelo MRLS e utilização de dummy.
+
+## Desafio 4
 Neste desafio foi Construindo um modelo de Regressão para marketing.
 
 Contexto - Introdução
@@ -16,7 +30,7 @@ análise de um especialista em dados. Além disso, a empresa busca criar um
 modelo de predição de valores para estimar o retorno de vendas que pode ser gerado
 a partir de um determinado investimento em publicidade.
 
-# Desafio 5
+## Desafio 5
 Este desafio teve como objetivo preparar o dataset para modelagem de dados
 
 Contexto - Introdução
