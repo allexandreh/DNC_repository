@@ -4,7 +4,7 @@
 
 arima
 
-Esse notebook é uma situação exemplo, explorando uma base de gasto de energia ao longo do tempo, nele está sendo predito o gasto de energia, baseando-se no histórico de gastos utilizando ARIMA.
+Esse notebook é uma situação exemplo, explorando uma base de gasto de energia ao longo do tempo, nele está sendo predito o gasto de energia, passado e futuro, baseando-se no histórico de gastos utilizando SARIMAX, por termos sazonalidade no gasto de energia.
 
 ## Conceitos:
 

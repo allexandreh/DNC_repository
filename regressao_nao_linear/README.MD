@@ -114,8 +114,6 @@ O AdaBoost ajusta os pesos aplicados a cada instância a cada iteração. Instâ
 
 Assim o Ensemble vai se adaptando e enfocando onde precisa melhorar. O AdaBoost é um dos melhores algoritmos de Boosting, frequentemente superando outros métodos mais simples.
 
-AdaBoost
-
 Gradient Boosting
 
 O Gradient Boosting também utiliza árvores de decisão de maneira sequencial, treinando cada árvore nos resíduos da anterior. Porém, diferente do AdaBoost que ajusta os pesos das instâncias, o Gradient Boosting tenta minimizar a perda residual a cada iteração.
